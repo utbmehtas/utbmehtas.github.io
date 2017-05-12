@@ -1,0 +1,52 @@
+
+body{
+    background-color:#FFFFFF;
+    font-family: Verdana, Arial, san-serif;
+    font-size:120%;
+    
+ /*   margin: 1% 10% 0 10%; */
+}
+
+h1{
+    font-size:130%;
+    color:gray;
+}
+h2{
+    font-size:250%;
+    color:#83BECF;
+}
+
+h3 {
+    font-size: 220%;
+    color: floralwhite;
+    text-align: center;
+    color: #83BECF;
+}
+
+
+
+
+p {
+    font-size: 120%;
+    color:gray;
+    margin: 1% 10% 0% 20%;
+}
+
+form    {
+    margin-top: 5%;
+}
+
+iframe {
+  width: 80%;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+footer {
+    background:#83BECF;
+    color: floralwhite;
+}
+
